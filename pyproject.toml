@@ -1,13 +1,14 @@
 [tool.poetry]
 name = "pybites_challenges"
 version = "0.1.0"
-description = ""
+description = "This repo contains my solutions to the https://codechalleng.es bite-size python challenges."
 authors = ["Matt Burnside <burnside.matthew@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
 confparser = "^0.1.7"
 python-decouple = "^3.5"
+pre-commit = "^2.15.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

@@ -1,5 +1,6 @@
 from pybites_challenges.bite_1 import sum_numbers
 
+
 def test_sum_numbers_default_args():
     assert sum_numbers() == 5050
     assert sum_numbers(numbers=None) == 5050
