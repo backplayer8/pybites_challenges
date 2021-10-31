@@ -1,4 +1,4 @@
-# Bite 1 Sum N Numbers
+# Bite 1: Sum N Numbers
 
 """
 Write a function that can sum up numbers:
@@ -8,6 +8,7 @@ If no argument is provided, return sum of numbers 1..100.
 Look closely to the type of the function's default argument ...
 Have fun!
 """
+
 
 def sum_numbers(numbers=None):
     if numbers:
