@@ -1,4 +1,4 @@
-from pybites_challenges.bite_8 import rotate
+from bite_8 import rotate
 
 
 def test_small_rotate():

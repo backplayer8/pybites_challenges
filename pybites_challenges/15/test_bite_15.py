@@ -1,6 +1,6 @@
 import pytest
 
-from pybites_challenges.bite_15 import enumerate_names_countries
+from bite_15 import enumerate_names_countries
 
 expected_lines = [
     "1. Julian     Australia",

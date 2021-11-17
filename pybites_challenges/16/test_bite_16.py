@@ -1,7 +1,7 @@
 from datetime import datetime
 from itertools import islice
 
-from pybites_challenges.bite_16 import gen_special_pybites_dates
+from bite_16 import gen_special_pybites_dates
 
 
 def test_gen_special_pybites_dates():

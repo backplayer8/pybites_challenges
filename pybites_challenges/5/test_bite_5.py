@@ -1,4 +1,4 @@
-from pybites_challenges.bite_5 import (
+from bite_5 import (
     NAMES,
     dedup_and_title_case_names,
     sort_by_surname_desc,

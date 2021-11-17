@@ -2,7 +2,7 @@
 
 import inspect
 
-from pybites_challenges.bite_37 import *
+from bite_37 import *
 
 expected = """10
 9
