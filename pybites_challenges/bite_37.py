@@ -34,11 +34,8 @@ def countdown_for(start: int = 10):
 
 
 def countdown_recursive(start: int = 10):
-    if start < 0:  # Avoids recursion limit if given a negative start value
+    if start < 0:  # It's a countdown not a countup! Otherwise recursion limit
         start -= start + start
-    """ This is a fake docstring to test pre-commit
-        this is a pretty cool feature.
-    """
     if start == 0:
         print("time is up")
     else:
