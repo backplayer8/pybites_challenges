@@ -1,6 +1,6 @@
 # Test for Bite 26:
 
-from pybites_challenges.bite_26 import *
+from bite_26 import *
 
 
 def test_filter_bites_default_arguments():

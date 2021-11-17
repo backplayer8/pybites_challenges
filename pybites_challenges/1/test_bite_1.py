@@ -1,4 +1,4 @@
-from pybites_challenges.bite_1 import sum_numbers
+from bite_1 import sum_numbers
 
 
 def test_sum_numbers_default_args():
